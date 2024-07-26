@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science and tech enthusiast | Blogger on Medium | Tea aficionado
+Tech and Data Science enthusiast | Blogger on Medium | Tea aficionado
 
 
 ## 🌐 Socials:
