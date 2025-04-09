@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech and Data Science enthusiast | Writer on Medium and Substack | Fitness aficionado
+Tech, Data Science and Generative AI enthusiast | Writer on Medium and Substack | Fitness aficionado
 
 
 ## 🌐 Socials:
