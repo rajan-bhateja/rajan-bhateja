@@ -1,5 +1,5 @@
 # 💫 About Me:
-GenAI Engineer | Writer on Medium and Substack
+GenAI Engineer | Writer on Medium
 
 
 ## 🌐 Socials:
