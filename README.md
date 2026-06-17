@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📝 Blogs: **AI, Agentic AI, and LLMs**
+- 📝 Blogs: **AI, Agentic AI**, and **LLMs**
 
 - 📫 Email ID: **rajanbhateja6@gmail.com**
 
