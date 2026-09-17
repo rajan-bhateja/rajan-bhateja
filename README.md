@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, there,<br>I'm Rajan, an enthusiastic AI Engineer,<br>I'm currently learning Rust,<br>I'm a big Motorsports fan: F1, WEC, MotoGP
+Hi, there,<br>I'm Rajan, an enthusiastic AI Engineer,<br>I'm currently learning Go,<br>I'm a big Motorsports fan: F1, WEC, MotoGP
 
 
 ## 🌐 Socials:
